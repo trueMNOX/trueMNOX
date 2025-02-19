@@ -46,12 +46,12 @@
       <br>Webpack
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="TestingLibrary" width="40"/>
-      <br>Testing Library
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MOngoDB" width="40"/>
+      <br>MongoDB
     </td>
       <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" alt="TestingLibrary" width="40"/>
-      <br>PHP
+      <img src="https://skillicons.dev/icons?i=express,next" alt="php" width="40"/>
+      <br>Express & Next
     </td>
   </tr>
 </table>
