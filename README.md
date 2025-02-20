@@ -61,14 +61,14 @@
 ### 📊 Development Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehdiNOUX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiNOUX&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theMNOX&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMNOX&layout=compact&theme=radical" alt="Top Languages" />
  
 </div>
 
 ---
 
-<p align="center" padding="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MehdiNOUX&theme=radical" alt="ok"/></a> </p>
+<p align="center" padding="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theMNOX&theme=radical" alt="ok"/></a> </p>
 
 ---
 
