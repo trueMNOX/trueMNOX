@@ -85,7 +85,7 @@
     <img src="https://img.icons8.com/color/96/000000/coffee-to-go.png" alt="Buy Me Coffee" width="40"/>
   </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MehdiNOUX&label=Profile%20views&color=0e75b6&style=flat" alt="seeyou" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theMNOX&label=Profile%20views&color=0e75b6&style=flat" alt="seeyou" /> </p>
 
 ---
 <footer align="center">
