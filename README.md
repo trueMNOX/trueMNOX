@@ -75,10 +75,10 @@
 ## Let's Connect! 📬
 
 <p align="center">
-  <a href="mailto:khodenoux@gmail.com">
+  <a href="mailto:itsmnox@gmail.com">
     <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="40"/>
   </a>
-  <a href="https://t.me/The_NOUX">
+  <a href="https://t.me/theMNOX">
     <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" alt="Telegram" width="40"/>
   </a>
   <a text-decoration="none" href="https://www.buymeacoffee.com/*">
