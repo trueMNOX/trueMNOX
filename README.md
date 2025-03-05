@@ -89,5 +89,5 @@
 
 ---
 <footer align="center">
-  Made with ❤️ by MehdiNOUX
+  Made with ❤️ by MNOX
 </footer>
