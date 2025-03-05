@@ -50,8 +50,8 @@
       <br>MongoDB
     </td>
       <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" alt="php" width="40"/>
-      <br>Express
+      <img src="https://skillicons.dev/icons?i=express,nest" alt="php" width="40"/>
+      <br>Express & Nest
     </td>
   </tr>
 </table>
