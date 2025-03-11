@@ -20,16 +20,16 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40"/>
-      <br>React
+      <img src="https://skillicons.dev/icons?i=css" alt="Css" width="40"/>
+      <br>Css
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node" width="40"/>
       <br>Node
     </td>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html,css" alt="TypeScript" width="40"/>
-      <br>Html&Css
+      <img src="https://skillicons.dev/icons?i=html" alt="html" width="40"/>
+      <br>Html
     </td>
   </tr>
   <tr>
