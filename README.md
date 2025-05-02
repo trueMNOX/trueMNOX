@@ -31,6 +31,11 @@
       <img src="https://skillicons.dev/icons?i=html" alt="html" width="40"/>
       <br>Html
     </td>
+      </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/>
+      <br>Express
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -49,9 +54,14 @@
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MOngoDB" width="40"/>
       <br>MongoDB
     </td>
+    </td>
       <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express,nest" alt="php" width="40"/>
-      <br>Express & Nest
+      <img src="https://skillicons.dev/icons?i=postgres" alt="php" width="40"/>
+      <br>PostgresSQL
+    </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nest" alt="SQL" width="40"/>
+      <br>Nest
     </td>
   </tr>
 </table>
