@@ -24,7 +24,7 @@
       <br>Css
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node" width="40"/>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="40"/>
       <br>Node
     </td>
      <td align="center" width="96">
