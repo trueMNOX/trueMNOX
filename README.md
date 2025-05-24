@@ -71,14 +71,14 @@
 ### 📊 Development Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theMNOX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMNOX&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trueMNOX&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trueMNOX&layout=compact&theme=radical" alt="Top Languages" />
  
 </div>
 
 ---
 
-<p align="center" padding="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theMNOX&theme=radical" alt="ok"/></a> </p>
+<p align="center" padding="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trueMNOX&theme=radical" alt="ok"/></a> </p>
 
 ---
 
@@ -95,7 +95,7 @@
     <img src="https://img.icons8.com/color/96/000000/coffee-to-go.png" alt="Buy Me Coffee" width="40"/>
   </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=theMNOX&label=Profile%20views&color=0e75b6&style=flat" alt="seeyou" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=trueMNOX&label=Profile%20views&color=0e75b6&style=flat" alt="seeyou" /> </p>
 
 ---
 <footer align="center">
