@@ -36,6 +36,9 @@
       <img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/>
       <br>Express
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=golang" alt="Golang" width="40"/>
+      <br>Go
   </tr>
   <tr>
     <td align="center" width="96">
@@ -63,6 +66,9 @@
       <img src="https://skillicons.dev/icons?i=nest" alt="SQL" width="40"/>
       <br>Nest
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" alt="doker" width="40"/>
+      <br>Docker
   </tr>
 </table>
 
