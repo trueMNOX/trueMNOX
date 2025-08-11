@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7E3ACE&background=FFEB5400&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+MehdiNOUX+%F0%9F%AB%82;A+relatively+strong+interest+in;...Programming%2C+Web+Development%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;and+Cybersecurity+%F0%9F%8C%B1" alt="Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7E3ACE&background=FFEB5400&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mehdi+%F0%9F%AB%82;A+relatively+strong+interest+in;...Programming%2C+Web+Development%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;and+Cybersecurity+%F0%9F%8C%B1" alt="Animated Title" />
 </div>
 
 <p align="center">
