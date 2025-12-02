@@ -50,8 +50,8 @@
       <br>Sass
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="WebPack" width="40"/>
-      <br>Webpack
+      <img src="https://skillicons.dev/icons?i=rabbitmq" alt="MQ" width="40"/>
+      <br>Rabbit
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MOngoDB" width="40"/>
@@ -67,7 +67,7 @@
       <br>Nest
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="doker" width="40"/>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="doker" width="40"/>
       <br>Docker
   </tr>
 </table>
