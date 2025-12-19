@@ -20,16 +20,16 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="Css" width="40"/>
-      <br>Css
+      <img src="https://skillicons.dev/icons?i=css,html" alt="Css" width="40"/>
+      <br>Css & Html
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="40"/>
       <br>Node
     </td>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="html" width="40"/>
-      <br>Html
+      <img src="https://skillicons.dev/icons?i=rust" alt="html" width="40"/>
+      <br>Rust
     </td>
       </td>
       <td align="center" width="96">
