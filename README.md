@@ -20,8 +20,8 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css,html" alt="Css" width="40"/>
-      <br>Css & Html
+      <img src="https://skillicons.dev/icons?i=linux" alt="Css" width="40"/>
+      <br>linux
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="40"/>
