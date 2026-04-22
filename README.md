@@ -43,7 +43,7 @@
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40"/>
-      <br>GitHub & Git
+      <br>G&G
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="40"/>
