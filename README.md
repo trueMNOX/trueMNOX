@@ -91,14 +91,8 @@
 ## Let's Connect! 📬
 
 <p align="center">
-  <a href="mailto:itsmnox@gmail.com">
-    <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="40"/>
-  </a>
   <a href="https://t.me/theMNOX">
     <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" alt="Telegram" width="40"/>
-  </a>
-  <a text-decoration="none" href="https://www.buymeacoffee.com/*">
-    <img src="https://img.icons8.com/color/96/000000/coffee-to-go.png" alt="Buy Me Coffee" width="40"/>
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trueMNOX&label=Profile%20views&color=0e75b6&style=flat" alt="seeyou" /> </p>
