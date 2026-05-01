@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7E3ACE&background=FFEB5400&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mehdi+%F0%9F%AB%82;A+relatively+strong+interest+in;...Programming%2C+Backend+BlockChain%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;and+Cybersecurity+%F0%9F%8C%B1" alt="Animated Title" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MNOX&fontSize=90&fontColor=00ff9f&fontAlignY=38&desc=Backend%20%C2%B7%20%23better&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00FF9F&center=true&vCenter=true&width=820&lines=%3E+just+an+enthusiast%2C+not+a+senior%2C+not+a+guru" alt="typing"/>
+</a>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%8C%B1;%F0%9F%91%BE%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%A4%A6%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%BE" alt="Typing SVG" /></a>
@@ -98,6 +101,3 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trueMNOX&label=Profile%20views&color=0e75b6&style=flat" alt="seeyou" /> </p>
 
 ---
-<footer align="center">
-  Made with ❤️ by MNOX
-</footer>
