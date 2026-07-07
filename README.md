@@ -1,103 +1,157 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MNOX&fontSize=90&fontColor=00ff9f&fontAlignY=38&desc=Just+be%20%C2%B7%20%23better&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
-</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MNOX&fontSize=90&fontColor=00ff9f&fontAlignY=38&desc=Just%20be%20·%20%23better&descSize=18&descAlignY=60&animation=fadeIn"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00FF9F&center=true&vCenter=true&width=820&lines=%3E+just+an+enthusiast%2C+not+a+senior%2C+not+a+guru" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00FF9F&center=true&vCenter=true&width=820&lines=%3E+just+an+enthusiast%2C+not+a+senior%2C+not+a+guru"/>
 </a>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%8C%B1;%F0%9F%91%BE%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%A4%A6%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%BE" alt="Typing SVG" /></a>
-</p>
+<br><br>
 
----
-## My Skills 🚀
+<img src="https://img.shields.io/badge/Backend-Engineer-00ff9f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Go-Developer-00ADD8?style=flat-square&logo=go"/>
+<img src="https://img.shields.io/badge/Rust-Enthusiast-black?style=flat-square&logo=rust"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-181717?style=flat-square&logo=github"/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40"/>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Css" width="40"/>
-      <br>linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="40"/>
-      <br>Node
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust" alt="html" width="40"/>
-      <br>Rust
-    </td>
-      </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=golang" alt="Golang" width="40"/>
-      <br>Go
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40"/>
-      <br>G&G
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="40"/>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" alt="MQ" width="40"/>
-      <br>Rabbit
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MOngoDB" width="40"/>
-      <br>MongoDB
-    </td>
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="php" width="40"/>
-      <br>PostgresSQL
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nest" alt="SQL" width="40"/>
-      <br>Nest
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="doker" width="40"/>
-      <br>Docker
-  </tr>
-</table>
-
----
-
-### 📊 Development Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trueMNOX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trueMNOX&layout=compact&theme=radical" alt="Top Languages" />
- 
 </div>
 
 ---
 
-<p align="center" padding="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trueMNOX&theme=radical" alt="ok"/></a> </p>
+# 👋 About Me
+
+```txt
+Backend Developer
+
+• Computer Engineering Student
+• Passionate about scalable backend systems
+• Interested in AI, Infrastructure and DevOps
+• Currently diving deeper into distributed systems, cloud-native technologies and scalable backend engineering
+```
 
 ---
 
-## Let's Connect! 📬
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <a href="https://t.me/theMNOX">
-    <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" alt="Telegram" width="40"/>
-  </a>
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gin-008ECF?style=flat"/>
+<img src="https://img.shields.io/badge/Fiber-00C853?style=flat"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqlc-336791?style=flat"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=trueMNOX&label=Profile%20views&color=0e75b6&style=flat" alt="seeyou" /> </p>
+---
+
+# 🎯 Engineering Focus
+
+```text
+Backend Engineering      ████████████████████
+
+Cloud Native             ████████████████░░░
+
+Distributed Systems      ███████████████░░░░
+
+Go Ecosystem             ████████████████░░░
+
+DevOps                   █████████████░░░░░░
+
+System Design            ██████████████░░░░░
+
+AI Engineering           ████████████░░░░░░░
+```
 
 ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=trueMNOX&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trueMNOX&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=trueMNOX&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trueMNOX&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=trueMNOX&theme=radical&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 💻 Philosophy
+
+```go
+func main() {
+    for {
+        Learn()
+        Build()
+        Improve()
+        Repeat()
+    }
+}
+```
+
+---
+
+# 📫 Connect
+
+<div align="center">
+
+<a href="https://t.me/theMNOX">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=trueMNOX&label=Profile%20Views&style=for-the-badge&color=00ff9f"/>
+
+</div>
