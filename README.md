@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MNOX&fontSize=90&fontColor=00ff9f&fontAlignY=38&desc=Just%20be%20·%20%23better&descSize=18&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mati&fontSize=90&fontColor=00ff9f&fontAlignY=38&desc=Just%20be%20·%20%23better&descSize=18&descAlignY=60&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00FF9F&center=true&vCenter=true&width=820&lines=%3E+just+an+enthusiast%2C+not+a+senior%2C+not+a+guru"/>
@@ -89,9 +89,9 @@ AI Engineering           ████████████░░░░░░�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=trueMNOX&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=trueMati&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trueMNOX&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trueMati&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -99,7 +99,7 @@ AI Engineering           ████████████░░░░░░�
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=trueMNOX&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=trueMati&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -109,7 +109,7 @@ AI Engineering           ████████████░░░░░░�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trueMNOX&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trueMati&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -119,7 +119,7 @@ AI Engineering           ████████████░░░░░░�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=trueMNOX&theme=radical&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=trueMati&theme=radical&row=1&column=7&no-frame=true"/>
 
 </div>
 
@@ -144,7 +144,7 @@ func main() {
 
 <div align="center">
 
-<a href="https://t.me/theMNOX">
+<a href="https://t.me/trueMati">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -154,6 +154,6 @@ func main() {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=trueMNOX&label=Profile%20Views&style=for-the-badge&color=00ff9f"/>
+<img src="https://komarev.com/ghpvc/?username=trueMati&label=Profile%20Views&style=for-the-badge&color=00ff9f"/>
 
 </div>
